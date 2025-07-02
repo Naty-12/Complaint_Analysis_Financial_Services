@@ -1,0 +1,23 @@
+# Core data & processing
+pandas
+numpy
+# Visualization (EDA)
+matplotlib
+seaborn
+# Text cleaning & NLP
+nltk
+regex
+# Embeddings & vector DB
+sentence-transformers
+faiss-cpu     # or use faiss-gpu if you have CUDA
+# LLM for RAG (OpenAI or similar)
+openai
+# or llama_index, langchain, etc. if applicable
+# Python env & ML utils
+scikit-learn
+# If downloading from Google Drive
+gdown
+# UI for chatbot prototype
+streamlit
+# Environment config
+python-dotenv
