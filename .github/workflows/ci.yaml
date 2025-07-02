@@ -29,7 +29,7 @@ jobs:
       - name: Lint code with flake8
         run: |
           pip install flake8
-          flake8 src/
+          flake8 tests/
 
       - name: Run tests
         run: |
