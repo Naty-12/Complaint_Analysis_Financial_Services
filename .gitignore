@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# PyCharm
+.idea/
+
+# Environment files
+.env
+*.env
+
+# Data files
+data/*.csv
+data/*.parquet
+data/*.json
+*.sqlite
+*.db
+
+# Large embeddings & vector DB indexes
+*.faiss
+*.npy
+*.npz
+
+# Logs & reports
+*.log
+logs/
+reports/*.html
+reports/*.md
+
+# Pip & Python packaging artifacts
+*.egg-info/
+dist/
+build/
